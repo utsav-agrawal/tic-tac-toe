@@ -10,4 +10,6 @@ Developed in C++ and Python separately.
 -  Option of playing again after completing a game
 
 ## tic.cpp (C++ version)
--  
+-  Works better in Turbo C or any other software where input and output are shown on the same window
+-  Displays 3x3 grid spaning across screen width
+-  Same rules as above i.e Python version
